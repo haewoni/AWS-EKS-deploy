@@ -1,8 +1,6 @@
-# AWS-EKS-deploy
+# <p align="center"> AWS-EKS-deploy
 
-# <p align="center"> IaC-AWS-Terraform
-
-### Terraform 을 사용하여 AWS S3 버킷과 EC2 인스턴스 생성하기
+### AWS EKS 를 사용하여 Spring Boot 앱 배포하기
 
 ## 사용기술
 - AWS EKS, ECR
